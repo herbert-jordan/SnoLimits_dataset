@@ -1,0 +1,3 @@
+matlab -nodisplay -r 'wy = 2005; write_annual_nc_tif_SWE_rocky;' > write_annual_2005.out 
+matlab -nodisplay -r 'wy = 2020; write_annual_nc_tif_SWE_rocky;' > write_annual_2020.out 
+
