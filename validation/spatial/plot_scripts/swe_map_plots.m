@@ -19,13 +19,13 @@ domain = 1;    % 1 = CA  |  2 = Rocky
 % ========================================================================
 % PATHS
 % ========================================================================
-base_path = fileparts(fileparts(mfilename('fullpath')));
+base_path  = fileparts(fileparts(mfilename('fullpath')));
 
-snolimits_path = fullfile(base_path, 'data');
-parbal_path    = fullfile(base_path, 'dataset_comparisons', 'ParBal');
-uaswe_path     = fullfile(base_path, 'dataset_comparisons', 'UASWE');
-ucla_path      = fullfile(base_path, 'dataset_comparisons', 'UCLA_SWE');
-out_dir        = fullfile(base_path, 'outputs');
+snolimits_path = fullfile(base_path,'data', 'SnoLimits');
+parbal_path    = fullfile(base_path,'data', 'ParBal');
+uaswe_path     = fullfile(base_path,'data', 'UASWE');
+ucla_path      = fullfile(base_path,'data', 'UCLA_SWE');
+out_dir        = fullfile(base_path,'outputs');
 
 domain_str = {'CA', 'rocky'};
 region_str = {'CA', 'CO'};
