@@ -1,0 +1,15 @@
+matlab -nodisplay -r 'it = 1; RF_rocky_regional_SWE_500m;' > reg_500_1.out 
+matlab -nodisplay -r 'it = 2; RF_rocky_regional_SWE_500m;' > reg_500_2.out 
+matlab -nodisplay -r 'it = 3; RF_rocky_regional_SWE_500m;' > reg_500_3.out 
+matlab -nodisplay -r 'it = 4; RF_rocky_regional_SWE_500m;' > reg_500_4.out 
+matlab -nodisplay -r 'it = 5; RF_rocky_regional_SWE_500m;' > reg_500_5.out 
+matlab -nodisplay -r 'it = 6; RF_rocky_regional_SWE_500m;' > reg_500_6.out 
+matlab -nodisplay -r 'it = 7; RF_rocky_regional_SWE_500m;' > reg_500_7.out 
+matlab -nodisplay -r 'it = 8; RF_rocky_regional_SWE_500m;' > reg_500_8.out 
+matlab -nodisplay -r 'it = 9; RF_rocky_regional_SWE_500m;' > reg_500_9.out 
+matlab -nodisplay -r 'it = 10; RF_rocky_regional_SWE_500m;' > reg_500_10.out 
+matlab -nodisplay -r 'it = 11; RF_rocky_regional_SWE_500m;' > reg_500_11.out 
+matlab -nodisplay -r 'it = 12; RF_rocky_regional_SWE_500m;' > reg_500_12.out 
+matlab -nodisplay -r 'it = 13; RF_rocky_regional_SWE_500m;' > reg_500_13.out 
+matlab -nodisplay -r 'it = 14; RF_rocky_regional_SWE_500m;' > reg_500_14.out 
+matlab -nodisplay -r 'it = 15; RF_rocky_regional_SWE_500m;' > reg_500_15.out 
